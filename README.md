@@ -1,0 +1,2 @@
+# konfig
+Übungen Konfigurationsmanagement
