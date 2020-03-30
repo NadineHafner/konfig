@@ -1,0 +1,56 @@
+#header-1{
+  text-align:center;
+  background-color:lightgreen;
+  margin-left: 40%;
+  width:30%;
+  color:black;
+  padding:20px;
+  border-style:dashed;
+}
+#boxstyle{
+  border: 5px black solid;
+  background: orange;
+    color:white;
+    width:30%;
+    padding:10px;
+    box-sizing: border-box;
+    padding-bottom: 30px;
+    border-style:dashed;
+}
+.datstr{
+  float:right;
+}
+.mat{
+  float:left;
+  margin-top:50px;
+}
+a{
+  color:white;
+}
+
+a:active{
+  color:red;
+}
+.prg{
+  float:right;
+  margin-top: 200px;
+
+}
+.web{
+  float:left;
+  margin-top: 300px;
+
+}
+.datdes{
+  float:right;
+  margin-top:250px;
+}
+.konfig{
+  float:left;
+  margin-top: 300px;
+}
+body{
+  background-image:url("background4.jpg");
+  text-align: center;
+
+}
